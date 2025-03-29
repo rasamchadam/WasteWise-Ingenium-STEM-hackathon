@@ -7,3 +7,6 @@ Opening the project!
 To Open the project,from the given link (https://mblock.makeblock.com/project/3328581 ) click on source code. This way you can get the access to the project with codes and teachable training model, and see the code in action.
 
 By clicking on the green flag symbol you can start the project. Just show the object in front of the camera from the waste categories and the AI project will sense, sort and tell you the best disposal methods in seconds!
+Here is the Link to the youtube video that shows my project in action!
+
+https://youtube.com/shorts/P0Q_28KjHlo?si=n2EIoKrytkJS9Sjb
